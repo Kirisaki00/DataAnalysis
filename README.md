@@ -34,23 +34,14 @@ This repository focuses on exploring datasets, handling missing values, and buil
 
 ---
 
-## 📁 Project Structure
+## 📂 Files Included
 
-DataAnalysis/
-│
-├── 📓 Notebooks/
-│   ├── DataSetWalkthrough.ipynb
-│   ├── NullValueFileHandeling.ipynb
-│   ├── Pandas.ipynb
-│   ├── sklearn.ipynb
-│
-├── 🐍 Scripts/
-│   └── demo.py
-│
-├── 📊 Datasets/
-│   ├── AB_NYC_2019.csv
-│   ├── googleplaystore.csv
-│   ├── Data.csv
+- 📓 DataSetWalkthrough.ipynb – Dataset exploration
+- 📓 NullValueFileHandeling.ipynb – Handling missing values
+- 📓 Pandas.ipynb – Pandas operations
+- 📓 sklearn.ipynb – Basic ML with Scikit-Learn
+- 🐍 demo.py – Python script example
+- 📊 Datasets – Airbnb NYC, Google Play Store, and custom data
 
 ---
 
