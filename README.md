@@ -35,17 +35,22 @@ This repository focuses on exploring datasets, handling missing values, and buil
 ---
 
 ## 📁 Project Structure
+
 DataAnalysis/
 │
-├── DataSetWalkthrough.ipynb
-├── NullValueFileHandeling.ipynb
-├── Pandas.ipynb
-├── sklearn.ipynb
-├── demo.py
+├── 📓 Notebooks/
+│   ├── DataSetWalkthrough.ipynb
+│   ├── NullValueFileHandeling.ipynb
+│   ├── Pandas.ipynb
+│   ├── sklearn.ipynb
 │
-├── AB_NYC_2019.csv
-├── googleplaystore.csv
-├── Data.csv
+├── 🐍 Scripts/
+│   └── demo.py
+│
+├── 📊 Datasets/
+│   ├── AB_NYC_2019.csv
+│   ├── googleplaystore.csv
+│   ├── Data.csv
 
 ---
 
